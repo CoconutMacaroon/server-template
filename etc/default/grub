@@ -1,0 +1,6 @@
+# all the existing contents
+# add the following to the end of the file
+GRUB_GFXMODE=0x032b,1280x1024x24,auto
+GRUB_GFXPAYLOAD_LINUX=keep
+GRUB_SAVEDEFAULT=true
+GRUB_DEFAULT=saved
